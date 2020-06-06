@@ -1,0 +1,9 @@
+﻿  apply.cpp
+  main.cpp
+  print.cpp
+C:\Users\yue\Desktop\OS\OS2\print.cpp(46,29): error C2664: “Task::Task(Task &&)”: 无法将参数 1 从“int”转换为“const Task &”
+C:\Users\yue\Desktop\OS\OS2\print.cpp(46,29): message : 原因如下: 无法从“int”转换为“const Task”
+C:\Users\yue\Desktop\OS\OS2\print.cpp(46,29): message : 无构造函数可以接受源类型，或构造函数重载决策不明确
+C:\Users\yue\Desktop\OS\OS2\storage.h(23,1): message : 参见“Task::Task”的声明
+  reclaim.cpp
+  正在生成代码...
